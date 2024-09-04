@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Mesh",
+    "slug": "ccw",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.testsg.Mesh"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e4f684b-f810-400e-93c2-be1adb0bb5de"
+      }
+    },
+    "owner": "youthcc"
+  }
+}
